@@ -1,0 +1,1 @@
+{"name": "techarro-software-solutions", "version": "1.0.0", "description": "A multi-page website for Techarro Software Solutions, optimized for Vercel.", "scripts": {"start": "open index.html"}, "keywords": ["tailwind", "html", "vercel", "software-solutions"], "author": "AI Assistant", "license": "MIT"}
